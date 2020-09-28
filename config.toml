@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://ashy-grass-014dc541e.azurestaticapps.net/"
-title = "KWYK"
+title = "KNDN"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -88,7 +88,7 @@ description = ""
 author = "Themefisher"
 # Contact Information
 phone = "505-325-1996"
-email = "info@kwykradio.com"
+email = "info@basinbroadcasting.com"
 location = "1515 W Main St, Farmington, NM 87401"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
@@ -142,4 +142,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright KWYK 2020. All Rights Reserved. [Themefisher](https://themefisher.com)"
+copyright = "Copyright KNDN 2020. All Rights Reserved. [Themefisher](https://themefisher.com)"
