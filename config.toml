@@ -82,7 +82,7 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "images/KNDN Logo.png"
+logo = "images/KNDNLogosm.png"
 # Meta data
 description = ""
 author = "Themefisher"
