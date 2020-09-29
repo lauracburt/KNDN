@@ -1,6 +1,6 @@
-# KNDN
+# KNDN AM
 
-## New Repository for station KNDN
+## New Repository for station KNDN AM
 
 by Laura Burt
 

@@ -3,11 +3,9 @@ about:
   enable : true
   image : "images/radiostationstudio.jpg"
   title : "Get to know us"
-  content : "KNDN 960 AM KNDN is Located in Farmington, New Mexico on the border of the Navajo reservation-the largest Indian reservation in the country.  KNDN 960AM, all Navajo radio began in 1957 and continues on today with daily Navajo language broadcasting including news, information, and music.  There are also live open microphone programs for listeners to make their own announcements for news, meetings, funerals, ceremonies and other happenings pertinent to the Navajo Nation.
+  content : "KNDN 960 AM is Located in Farmington, New Mexico on the border of the Navajo reservation-the largest Indian reservation in the country.  KNDN 960AM, all Navajo radio began in 1957 and continues on today with daily Navajo language broadcasting including news, information, and music.  There are also live open microphone programs for listeners to make their own announcements for news, meetings, funerals, ceremonies and other happenings pertinent to the Navajo Nation.
 
-KNDN has earned impressive national attention from many sources from the inclusion in the Smithsonian Institute in Washington D.C., publications such as the Los Angeles Times, The Chicago Tribune, and novels by famed Southwestern author Tony Hillerman.  KNDN has also been the focus of  CBS News, Sunday Morning with Charles Osgood.
-
-Listen now to KNDN 960 AM and online at www.kndnradio.com and on mobile app “tunin radio” for Apple and Android users"
+KNDN has earned impressive national attention from many sources from the inclusion in the Smithsonian Institute in Washington D.C., publications such as the Los Angeles Times, The Chicago Tribune, and novels by famed Southwestern author Tony Hillerman."
 
   button:
     enable : false

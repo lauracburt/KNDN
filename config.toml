@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://ashy-grass-014dc541e.azurestaticapps.net/"
-title = "KNDN"
+title = "KNDN AM"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -82,7 +82,7 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "images/94.9-KWYK-new.png"
+logo = "images/KNDN Logo.png"
 # Meta data
 description = ""
 author = "Themefisher"
@@ -120,7 +120,7 @@ map_marker = "images/marker.png"
 ############################# social site ########################
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://www.facebook.com/KwykRadio"
+link = "https://www.facebook.com/kndnradiostation"
 
 #[[params.social]]
 #icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -142,4 +142,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright KNDN 2020. All Rights Reserved. [Themefisher](https://themefisher.com)"
+copyright = "Copyright KNDN AM 2020. All Rights Reserved. [Themefisher](https://themefisher.com)"

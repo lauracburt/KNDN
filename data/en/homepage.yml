@@ -1,9 +1,9 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/KWYKbg.jpg"
+  bg_image : "images/cowboybg.jpg"
   title : "KNDN 960 AM"
-  content : "All Navajo Radio"
+  content : "All Navajo All The Time"
   button:
     enable : true
     label : "Listen Now"
@@ -14,21 +14,21 @@ banner:
 about:
   enable : true
   title : "About Us"
-  description : "KNDN 960 AM All Navajo All The Time.KNDN is Located in Farmington, New Mexico on the border of the Navajo reservation-the largest Indian reservation in the country.  KNDN 960AM, all Navajo radio began in 1957 and continues on today with daily Navajo language broadcasting including news, information, and music."
+  description : "KNDN 960 AM All Navajo All The Time. KNDN is Located in Farmington, New Mexico on the border of the Navajo reservation-the largest Indian reservation in the country.  KNDN 960AM, all Navajo radio began in 1957 and continues on today with daily Navajo language broadcasting including news, information, and music."
   content : "Thanks for letting us be a part of your day!"
-  image : "images/relaxradio.jpg"
+  image : "images/KNDNAMGuitar.jpg"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/vertgreyantenna.jpg"
+  bg_image : "images/monumentvalley.jpg"
   title : ""
   content : ""
   button:
     enable : true
     label : "FCC Public File"
-    link : "https://publicfiles.fcc.gov/fm-profile/kndn-fm"
+    link : "https://publicfiles.fcc.gov/am-profile/kndn"
 
 
 ############################# Service ############################
