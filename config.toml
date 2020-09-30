@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://ashy-grass-014dc541e.azurestaticapps.net/"
+baseURL = "https://icy-tree-02d4dfa10.azurestaticapps.net"
 title = "KNDN AM"
 theme = "airspace-hugo"
 # post pagination
