@@ -4,7 +4,7 @@ pricing:
   pricing_table:
     # pricing table loop
     - name : "Morning Show"
-      price: "Country classics"
+      price: ""
       content : "Making your mornings brighter."
 
       link : "#"
@@ -13,14 +13,14 @@ pricing:
         
     # pricing table loop
     - name : "Afternoon Show"
-      price: "Keeping you going"
+      price: ""
       content : "Making your afternoons fly by."
       link : "#"
       services:
         
     # pricing table loop
     - name : "Evening Show"
-      price: "Continuous country hits"
+      price: ""
       content : "Keeping your nights rocking."
       
       link : "#"
