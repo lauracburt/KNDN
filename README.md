@@ -2,7 +2,7 @@
 
 ## New Repository for station KNDN AM
 
-by Jason
+by laura 4:59pm 9/30
 
 1. KRZE https://www.fierro1280.com/
 point to: https://witty-mushroom-0f6502b10.azurestaticapps.net
